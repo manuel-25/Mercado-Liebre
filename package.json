@@ -1,0 +1,26 @@
+{
+  "name": "mercadolibre",
+  "version": "1.0.0",
+  "main": "app.js",
+  "scripts": {
+    "test": "nodemon app.js -e js,mjs,json,html",
+    "start": "node app.js"
+  },
+  "author": "Manuel",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.15"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/manuel-25/Mercado-Liebre.gitt"
+  },
+  "bugs": {
+    "url": "https://github.com/manuel-25/Mercado-Liebre/issues"
+  },
+  "homepage": "https://github.com/manuel-25/Mercado-Liebre#readme",
+  "description": ""
+}
